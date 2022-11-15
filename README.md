@@ -1,13 +1,12 @@
 ## Seoyoon Choi 
 The name of this project is Seoyoon. As known as Yoon.
-<!--
+
 Learning Graphics.
 It was made in the Korean city of Seoul.
 The system prefers extreme situations, so the higher the altitude, the better the efficiency.
 It sometimes tends to work impulsively.
 When this software receives the input, it is characterized by performing tasks at the last minute without dividing the work.
 Project created by:
-
 
 *KyoungAh Yi*
 *Hun Choi*
