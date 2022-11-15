@@ -1,5 +1,16 @@
-### Hi there 👋
-Hello my name is Yoon. 
+## Seoyoon Choi 
+The name of this project is Seoyoon. As known as Yoon.
+<!--
+Learning Graphics.
+It was made in the Korean city of Seoul.
+The system prefers extreme situations, so the higher the altitude, the better the efficiency.
+It sometimes tends to work impulsively.
+When this software receives the input, it is characterized by performing tasks at the last minute without dividing the work.
+Project created by:
+
+
+*KyoungAh Yi*
+*Hun Choi*
 <!--
 **starksee/starksee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
